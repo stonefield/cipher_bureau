@@ -1,0 +1,40 @@
+noun_4_ascii:
+  id: 13
+  country_code: 47
+  grammar: noun
+  name_type: 
+  ascii: true
+  length: 4
+  word_count: 20
+noun_4:
+  id: 66
+  country_code: 47
+  grammar: noun
+  name_type: 
+  ascii: false
+  length: 4
+  word_count: 20
+surname_5:
+  id: 308
+  country_code: 47
+  grammar: name
+  name_type: surname
+  ascii: false
+  length: 5
+  word_count: 20
+boysname_5:
+  id: 320
+  country_code: 47
+  grammar: name
+  name_type: boysname
+  ascii: false
+  length: 5
+  word_count: 20
+girlsname_5:
+  id: 332
+  country_code: 47
+  grammar: name
+  name_type: girlsname
+  ascii: false
+  length: 5
+  word_count: 20

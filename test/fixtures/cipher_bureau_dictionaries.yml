@@ -1,0 +1,704 @@
+noun_ascii_1:
+  word: ropa
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_2:
+  word: kjel
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_3:
+  word: pant
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_4:
+  word: gisp
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_5:
+  word: fres
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_6:
+  word: nabb
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_7:
+  word: ribb
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_8:
+  word: elte
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_9:
+  word: dill
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_10:
+  word: oval
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_11:
+  word: brua
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_12:
+  word: issa
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_13:
+  word: moms
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_14:
+  word: tufs
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_15:
+  word: kant
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_16:
+  word: baks
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_17:
+  word: nurk
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_18:
+  word: asur
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_19:
+  word: logn
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+noun_ascii_20:
+  word: lyst
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: true
+
+noun_21:
+  word: bøff
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_22:
+  word: pæra
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_23:
+  word: træl
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_24:
+  word: bløt
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_25:
+  word: møet
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_26:
+  word: tåre
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_27:
+  word: bæet
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_28:
+  word: bøer
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_29:
+  word: bøss
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_30:
+  word: ølen
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_31:
+  word: åbot
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_32:
+  word: nøtt
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_33:
+  word: bøle
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_34:
+  word: uvær
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_35:
+  word: døle
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_36:
+  word: sæde
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_37:
+  word: skål
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_38:
+  word: ståk
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_39:
+  word: ulåt
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+noun_40:
+  word: nøle
+  length: 4
+  grammar: noun
+  name_type: 
+  country_code: 47
+  ascii: false
+  
+surname_41:
+  word: Ustad
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_42:
+  word: Olden
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_43:
+  word: Håvik
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_44:
+  word: Molde
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_45:
+  word: Sjøli
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_46:
+  word: Skeie
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_47:
+  word: Misje
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_48:
+  word: Volle
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_49:
+  word: Muren
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_50:
+  word: Aglen
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_51:
+  word: Sagmo
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_52:
+  word: Hagen
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_53:
+  word: Waage
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_54:
+  word: Klokk
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_55:
+  word: Lenes
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_56:
+  word: Røine
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_57:
+  word: Tofte
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_58:
+  word: Smith
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_59:
+  word: Sømme
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+surname_60:
+  word: Kvaal
+  length: 5
+  grammar: name
+  name_type: surname
+  country_code: 47
+  ascii: false
+
+girlsname_61:
+  word: Vilja
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_62:
+  word: Mabel
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_63:
+  word: Maren
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_64:
+  word: Anine
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_65:
+  word: Elise
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_66:
+  word: Bodil
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_67:
+  word: Linea
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_68:
+  word: Milla
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_69:
+  word: Magda
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_70:
+  word: Hulda
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_71:
+  word: Mille
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_72:
+  word: Renee
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_73:
+  word: Cindy
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_74:
+  word: Elida
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_75:
+  word: Lilli
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_76:
+  word: Karen
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_77:
+  word: Judit
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_78:
+  word: Emine
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_79:
+  word: Eline
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+girlsname_80:
+  word: Wendy
+  length: 5
+  grammar: name
+  name_type: girlsname
+  country_code: 47
+  ascii: false
+
+boysname_81:
+  word: Adnan
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_82:
+  word: Gjert
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_83:
+  word: Aslak
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_84:
+  word: Scott
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_85:
+  word: Klaus
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_86:
+  word: Gøran
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_87:
+  word: Eigil
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_88:
+  word: Jonny
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_89:
+  word: Thore
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_90:
+  word: Lucas
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_91:
+  word: Esben
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_92:
+  word: Colin
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_93:
+  word: Øyvin
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_94:
+  word: Ruben
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_95:
+  word: Thanh
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_96:
+  word: Jakob
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_97:
+  word: Fritz
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_98:
+  word: Peter
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_99:
+  word: Evald
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
+boysname_100:
+  word: Ingar
+  length: 5
+  grammar: name
+  name_type: boysname
+  country_code: 47
+  ascii: false
