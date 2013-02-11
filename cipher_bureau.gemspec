@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   Currently the dictionary is only in Norwegian, but you can easily load dictionaries yourself."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
-  s.test_files = Dir["test/**/*"]
+  s.test_files = Dir["test/**/*"] - Dir['test/dummy/db/*.sqlite3', 'test/dummy/log/*.log', 'test/dummy/tmp/', 'test/dummy/.sass-cache']
 
   s.add_dependency "rails", ">= 3.0"
   s.add_dependency "unicode_utils", ">= 1.3.0"
